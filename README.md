@@ -1,1 +1,4 @@
-# EventPlanner-backend-Estrutura-hexagonal-
+domain/
+application/
+infrastructure/
+adapters/
